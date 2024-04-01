@@ -12,8 +12,8 @@ Installation
 Guide users through getting your code up and running on their own system. Include any dependencies and prerequisites.
 
 
-For Installation
+For Installation\n
 npm install
 
-For Running Use
+For Running Use\n
 npm run dev
